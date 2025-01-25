@@ -1,5 +1,3 @@
-Abstract
-
 TEAM-CYPHER  presents a transformative approach to education, emphasizing engagement, personalization, and visual comprehension through its "EDU-NOVA" project. This innovative solution addresses critical shortcomings in traditional learning systems, such as stress, monotony, and a lack of practical application, by integrating AI-driven tools into the learning process.
 
 The project consists of five key modules:
